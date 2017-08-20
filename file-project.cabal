@@ -3,14 +3,14 @@
 
 name:                file-project
 version:             0.1.0.0
--- synopsis:            
+synopsis:            "Validate filenames - String parsing."
 -- description:         
 license:             BSD3
 license-file:        LICENSE
 author:              jordan-storz
 maintainer:          jordan.storz.1@gmail.com
 -- copyright:           
--- category:            
+category:            "String parsing"
 build-type:          Simple
 extra-source-files:  ChangeLog.md
 cabal-version:       >=1.10

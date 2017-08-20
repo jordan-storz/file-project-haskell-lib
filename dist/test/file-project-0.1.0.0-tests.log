@@ -1,7 +1,5 @@
 Test suite tests: RUNNING...
 
-Validate truth
-  true should be true
 Recognize proj filename
   should be true when given valid filename
 Reject non proj filename
@@ -9,7 +7,7 @@ Reject non proj filename
 Filter should take out proj files
   should remove filenames that have proj extension
 
-Finished in 0.0025 seconds
-4 examples, 0 failures
+Finished in 0.0022 seconds
+3 examples, 0 failures
 Test suite tests: PASS
 Test suite logged to: dist/test/file-project-0.1.0.0-tests.log
